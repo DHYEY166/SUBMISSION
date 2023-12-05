@@ -11,7 +11,7 @@
 
 ### For the easiest and most compatible way to use this tool, use the Google Colab version:
 
-ipynb link: [https://github.com/Sj0605-DataSci/Wav2Lip-Enhanced/blob/main/Easy_Wav2Lip_v8.ipynb](https://github.com/Sj0605-DataSci/Wav2Lip-Enhanced/blob/main/Easy_Wav2Lip_v8.ipynb)
+ipynb link: [https://github.com/DHYEY166/wav2lip_code/blob/main/Wav2Lip.ipynb](https://github.com/DHYEY166/wav2lip_code/blob/main/Wav2Lip.ipynb)
 
 
 ## Credits:
